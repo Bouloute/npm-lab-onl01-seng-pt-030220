@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-onl01-seng-pt-030220",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bouloute/npm-lab-onl01-seng-pt-030220.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bouloute/npm-lab-onl01-seng-pt-030220/issues"
+  },
+  "homepage": "https://github.com/Bouloute/npm-lab-onl01-seng-pt-030220#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
